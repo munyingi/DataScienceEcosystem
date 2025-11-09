@@ -1,11 +1,10 @@
 # Data Science Assignment
 
 ## 📝 Project Description
-This repository contains my submission for the data science assignment. The notebook demonstrates various data analysis and visualization techniques using Python.
+This repository contains my submission for the data science assignment. 
 
 ## 📊 Contents
 - **Main Notebook**: `DataScienceEcosystem.ipynb`
-- **Analysis includes**: Data manipulation, visualization, and basic machine learning concepts
 
 ## 🛠️ Tools Used
 - **Python** 
